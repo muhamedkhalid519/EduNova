@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EduNova.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3bee8c5c22351f58fa82a9585ad369e2d9f0c44")]
 [assembly: System.Reflection.AssemblyProductAttribute("EduNova.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EduNova.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
